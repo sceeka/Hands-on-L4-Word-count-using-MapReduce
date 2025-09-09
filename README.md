@@ -107,20 +107,13 @@ To copy the output from HDFS to your local machine:
 
 ## Sample Input: 
  ```bash
-   Hello world
-   Hello Hadoop
-   Hadoop is powerful
-   Hadoop is used for big data
-   ```
+  # Create your own input dataset
 
 ## Expected output: 
  ```bash
-Hadoop 3
-Hello 2
-used 1
-for 1
-big 1
-data 1
-powerful 1
-world 1
+  dataset	1
+your	1
+own	1
+input	1
+Create	1
    ```
