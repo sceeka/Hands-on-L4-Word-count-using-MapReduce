@@ -104,12 +104,17 @@ To copy the output from HDFS to your local machine:
     ```
 3. Commit and push to your repo so that we can able to see your output
 
+Challenges Faced and Solutions
+
+While working on Hadoop, one of the main issues I faced was that the job failed to run successfully. After analyzing the problem, I realized that the version of Java installed on my system was incompatible. To resolve this, I reinstalled Java version 8, which allowed me to complete the project without further errors.
+
+Another challenge I encountered was forgetting to edit the input file. As a result, my output matched the expected output without reflecting the actual changes. That's why my input and output are same as expected.
 
 ## Sample Input: 
  ```bash
   # Create your own input dataset
 
-## Expected output: 
+## Output: 
  ```bash
   dataset	1
 your	1
